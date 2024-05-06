@@ -23,7 +23,7 @@
 
   - ### Text to image generation
     - There are many models that can generate images **DALL-E** , **GOOGLE'S BARD** , **MID JOURNEY**
-    - Tuning these models to generate simplified images
-
+    - Tuning these models to generate simplified black and white images
+  
 - 2. a system that can convert images to electrical signal in a range suitable for optical lobe to visuilize images
 - 3. create a way for feed back for this AI/ML models
