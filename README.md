@@ -25,5 +25,7 @@
     - There are many models that can generate images **DALL-E** , **GOOGLE'S BARD** , **MID JOURNEY**
     - Tuning these models to generate simplified black and white images
   
-- 2. a system that can convert images to electrical signal in a range suitable for optical lobe to visuilize images
-- 3. create a way for feed back for this AI/ML models
+- ## 2. a system that can convert images to electrical signal in a range suitable for optical lobe to visuilize images
+    - Sheila Nirenberg's primary focus lies in understanding  the neural code, the specific patterns of electrical activity that the brain uses to represent visual information.
+    - [A information site about Neural code translation ]("https://physiology.med.cornell.edu/faculty/nirenberg/lab/research.php")
+- ## 3. create a way for feed back for this AI/ML models	
