@@ -1,4 +1,4 @@
-5-9-24 4:57 am
+9-5-24 4:57 am
 
 - #### What are the specific techniques used to decode text from EEG brain signals?
 
@@ -12,14 +12,9 @@
 
 - #### What are the challenges in EEG Signal Decoding for Text Generation ?
 
-  - acquiring proper brain wave data :
-    - acquiring clean and proper brain wave data is crucial for efficient thought to text genegration
-    - ###### problems are:
-      - EEG waves are non stationary i.e. they frequently tend to change, extracting features and information from this changing waves is challenging.
-      - EEG waves are high dimensional and constains redunt information cleaning this is a complex task.
-      - calibrating EEG device to individual user is essential for accurately decoding neural signals is time consuming.
-      - training data is limited.
-      - privacy concerns related to the user advance encryptions are required to protect the data.
+  - acquiring proper brain wave data : - acquiring clean and proper brain wave data is crucial for efficient thought to text genegration - ###### problems are: - EEG waves are non stationary i.e. they frequently tend to change, extracting features and information from this changing waves is challenging. - EEG waves are high dimensional and constains redunt information cleaning this is a complex task. - calibrating EEG device to individual user is essential for accurately decoding neural signals is time consuming. - training data is limited. - privacy concerns related to the user advance encryptions are required to protect the data.
+
+16-5-24 5:03 am
 
 - #### is there any currently availabel models that can decdode thought to text?
 - yes
