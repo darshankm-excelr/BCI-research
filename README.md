@@ -29,3 +29,4 @@
   - Sheila Nirenberg's primary focus lies in understanding the neural code, the specific patterns of electrical activity that the brain uses to represent visual information.
   - [A information site about Neural code translation]("https://physiology.med.cornell.edu/faculty/nirenberg/lab/research.php")
  - this is from darshan
+ - about bci research 
